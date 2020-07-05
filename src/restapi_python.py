@@ -1,7 +1,7 @@
 
 """
 A Python client for the HAProxy RestAPI.
-https://github.com/alexyz79/dataplane-python
+https://github.com/a13labs/dataplane-python
 """
 import logging
 import requests
